@@ -20,6 +20,18 @@ main section.categories-show {
       margin-top:    20px;
       // margin:        10px;
 
+      .warning {
+        font-size: 1em;
+        background-color: #DF9997;
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding: 10px;
+        border-top-left-radius: 4px;
+        border-bottom-right-radius: 20px;
+        color: white;
+      }
+
       header img {
         max-width: 100%;
         max-height: 140px;
